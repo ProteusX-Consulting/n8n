@@ -1,0 +1,25 @@
+{
+  "name": "website-analyzer",
+  "version": "1.0.0",
+  "description": "Comprehensive website analysis tool using Playwright",
+  "main": "local-files/spiders/website-analyzer.js",
+  "scripts": {
+    "analyze": "node local-files/spiders/website-analyzer.js",
+    "install-browsers": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "playwright",
+    "web-scraping",
+    "website-analysis",
+    "design-tokens",
+    "performance"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT"
+}

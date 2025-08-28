@@ -1,0 +1,104 @@
+{
+  "domain": "therapeuticcuts.com",
+  "homepage_url": "https://therapeuticcuts.com/",
+  "tested_at": "2025-07-19T14:50:10.991Z",
+  "mobile": null,
+  "desktop": null,
+  "performance_gap": 0,
+  "seo_issues": {
+    "missing_meta_description": false,
+    "missing_proper_title": false,
+    "image_alt_issues": false,
+    "crawling_issues": false
+  },
+  "top_opportunities": [
+    {
+      "audit": "unused-javascript",
+      "title": "Reduce unused JavaScript",
+      "potential_savings_ms": 300
+    },
+    {
+      "audit": "uses-responsive-images",
+      "title": "Properly size images",
+      "potential_savings_ms": 190
+    },
+    {
+      "audit": "modern-image-formats",
+      "title": "Serve images in next-gen formats",
+      "potential_savings_ms": 130
+    }
+  ],
+  "detailed_results": [
+    {
+      "url": "https://therapeuticcuts.com/",
+      "tested_at": "2025-07-19T14:50:10.988Z",
+      "performance_score": 71,
+      "accessibility_score": 95,
+      "best_practices_score": 100,
+      "seo_score": 92,
+      "first_contentful_paint": 2681,
+      "largest_contentful_paint": 5345,
+      "total_blocking_time": 102,
+      "cumulative_layout_shift": 0,
+      "speed_index": 5485,
+      "meta_description_audit": true,
+      "document_title_audit": true,
+      "crawlable_anchors": true,
+      "image_alt_audit": true,
+      "robots_txt_valid": true,
+      "render_blocking_resources": 1,
+      "unused_css_rules": 1,
+      "opportunities": [
+        {
+          "audit": "uses-responsive-images",
+          "title": "Properly size images",
+          "potential_savings_ms": 1290
+        },
+        {
+          "audit": "modern-image-formats",
+          "title": "Serve images in next-gen formats",
+          "potential_savings_ms": 830
+        },
+        {
+          "audit": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "potential_savings_ms": 300
+        }
+      ],
+      "status": "success"
+    },
+    {
+      "url": "https://therapeuticcuts.com/",
+      "tested_at": "2025-07-19T14:50:10.990Z",
+      "performance_score": 99,
+      "accessibility_score": 95,
+      "best_practices_score": 100,
+      "seo_score": 92,
+      "first_contentful_paint": 285,
+      "largest_contentful_paint": 634,
+      "total_blocking_time": 0,
+      "cumulative_layout_shift": 0.054,
+      "speed_index": 285,
+      "meta_description_audit": true,
+      "document_title_audit": true,
+      "crawlable_anchors": true,
+      "image_alt_audit": true,
+      "robots_txt_valid": true,
+      "render_blocking_resources": 0,
+      "unused_css_rules": 1,
+      "opportunities": [
+        {
+          "audit": "uses-responsive-images",
+          "title": "Properly size images",
+          "potential_savings_ms": 190
+        },
+        {
+          "audit": "modern-image-formats",
+          "title": "Serve images in next-gen formats",
+          "potential_savings_ms": 130
+        }
+      ],
+      "status": "success"
+    }
+  ]
+}

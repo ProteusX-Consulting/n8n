@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: n8n
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_BASIC_AUTH_USER=${N8N_BASIC_AUTH_USER}
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_BASIC_AUTH_PASSWORD}
+      - DB_TYPE=${DB_TYPE}
+      - GENERIC_TIMEZONE=${GENERIC_TIMEZONE}
+      - N8N_SECURE_COOKIE=${N8N_SECURE_COOKIE}
+      - WEBHOOK_URL=${WEBHOOK_URL}
+      # Python environment settings
+      - PIP_BREAK_SYSTEM_PACKAGES=1
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./local-files:/files
+    networks:
+      - n8n-network
+    # Install Python when container starts - FIXED VERSION
+    user: root
+    entrypoint: >
+      sh -c "
+        echo 'Setting up Python environment for scraping...' &&
+        apk update &&
+        apk add --no-cache python3 py3-pip python3-dev gcc musl-dev libxml2-dev libxslt-dev &&
+        echo 'Installing Python packages with --break-system-packages flag...' &&
+        pip3 install --break-system-packages scrapy lxml cssselect requests beautifulsoup4 &&
+        echo 'Python setup complete! Testing imports...' &&
+        python3 -c 'import scrapy; print(\"Scrapy version:\", scrapy.__version__)' &&
+        echo 'Creating directories...' &&
+        mkdir -p /files/spiders /files/crawl-output /files/seo-input /files/seo-output &&
+        chown -R node:node /files &&
+        echo 'Starting n8n as node user...' &&
+        su -c 'exec n8n start' node
+      "
+
+volumes:
+  n8n_data:
+
+networks:
+  n8n-network:
+    driver: bridge

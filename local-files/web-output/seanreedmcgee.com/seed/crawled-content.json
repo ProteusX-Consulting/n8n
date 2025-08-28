@@ -1,0 +1,223 @@
+{
+  "about": {
+    "title": "About Sean Reed McGee",
+    "jobTitle": "Entrepreneur and Performance Marketer",
+    "extendedBio": {
+      "family": "Married to Wileeta McGee at 22/19, has three daughters and grandchildren. Grew up in a single-parent household with his mother.",
+      "education": "Graduated from Wagner College with degrees in Business, Marketing, and Management",
+      "earlyWork": "Worked at McDonald's at age 13, learned 'clean as you go' principle",
+      "personalInterests": "Loves working, family time, football, traveling, movies, reading, fitness. Devoted Miami Dolphins fan.",
+      "favoriteBooks": ["48 Laws of Power", "Post Traumatic Slave Syndrome", "One Thing"],
+      "quotes": [
+        "Act as if what you do makes a difference. It does.",
+        "Gratitude can transform ordinary common days into thanksgivings."
+      ]
+    },
+    "achievements": [
+      "C3 Board Member at Consumer Consent Council",
+      "Winner of 'The Heart Award' at AFFY Expo 2023",
+      "Dr. Walter S. McAfee Leadership Award recipient (2025)"
+    ]
+  },
+  "companies": [
+    {
+      "name": "Lead Ventures, Inc.",
+      "description": "Performance marketing company that leverages creative marketing, technology, and human talent to surpass finite targets",
+      "category": "Performance Marketing",
+      "order": 1
+    },
+    {
+      "name": "Back2Learn, Inc.",
+      "description": "Connects prospective students with educational institutions. Delivers resources and strategies that showcase colleges, universities, and programs",
+      "category": "Education Technology",
+      "order": 2
+    },
+    {
+      "name": "FocusQuest",
+      "description": "Education services organization that creates accelerated access to education for adult learners. Provides solutions for HBCUs and Minority Serving Institutions",
+      "category": "Education Services",
+      "order": 3
+    },
+    {
+      "name": "Focus Quest Publishing",
+      "description": "Digital/print learning platform that empowers minds through top-tier educational books and e-books",
+      "category": "Publishing",
+      "order": 4
+    },
+    {
+      "name": "YourSolutionsCorner",
+      "description": "Matches companies with potential customers. Focuses on services like insurance, mortgage, health, medicare, solar, electric cars",
+      "category": "Lead Generation",
+      "order": 5
+    },
+    {
+      "name": "GroChoice",
+      "description": "Marketing company connecting online grocery delivery. Helps customers find online grocery store options and daily food specials",
+      "category": "E-commerce Marketing",
+      "order": 6
+    },
+    {
+      "name": "Fluid Education",
+      "description": "Develops strategic partnerships between universities and organizations. Supports professional development and student placement",
+      "category": "Education Partnerships",
+      "order": 7
+    },
+    {
+      "name": "Blacks In Performance Marketing (BiPM)",
+      "description": "Community increasing representation of Black professionals in marketing industry",
+      "category": "Professional Community",
+      "order": 8
+    },
+    {
+      "name": "Next Step Academy",
+      "description": "Online education system that provides interactive, mobile-friendly courses",
+      "category": "Online Education",
+      "order": 9
+    },
+    {
+      "name": "Launch Your Degree",
+      "description": "Helps students choose educational programs and degree completion services",
+      "category": "Educational Consulting",
+      "order": 10
+    },
+    {
+      "name": "MWBE Directory",
+      "description": "Platform connecting schools with minority and women-owned businesses",
+      "category": "Business Directory",
+      "order": 11
+    },
+    {
+      "name": "HBCU Degrees Online",
+      "description": "Platform for online degree programs from Historically Black Colleges and Universities",
+      "category": "Higher Education",
+      "order": 12
+    },
+    {
+      "name": "VisionTri",
+      "description": "Real estate investment focused on community growth",
+      "category": "Real Estate",
+      "order": 13
+    },
+    {
+      "name": "The D9 Network",
+      "description": "Connects entrepreneurs from Black Greek Letter Organizations",
+      "category": "Professional Networking",
+      "order": 14
+    }
+  ],
+  "blogPosts": [
+    {
+      "title": "Dr. Walter S. McAfee Leadership Award",
+      "slug": "dr-walter-s-mcafee-leadership-award",
+      "publishedDate": "2025-04-15",
+      "excerpt": "I am deeply honored to have received the Walter S. McAfee Leadership Award from the Zeta Epsilon Lambda Chapter of Alpha Phi Alpha Fraternity, Inc.",
+      "content": "I am deeply honored to have received the Walter S. McAfee Leadership Award from the Zeta Epsilon Lambda Chapter of Alpha Phi Alpha Fraternity, Inc. This award recognizes leadership and community commitment, including contributing to a scholarship initiative awarding $1,500 to five high school students in Monmouth and Ocean counties.\n\nDr. Walter S. McAfee was a pioneering African American physicist who made breakthrough calculations for Project Diana in 1946, enabling the first successful radar signals bounced off the Moon. His legacy continues to inspire future leaders and innovators.",
+      "status": "published",
+      "category": "Awards & Recognition"
+    },
+    {
+      "title": "MedCerts & FocusQuest Unite Empowering Minority Students in Health & IT Careers",
+      "slug": "medcerts-focusquest-unite-empowering-minority-students-in-health-it-careers",
+      "publishedDate": "2025-01-21",
+      "excerpt": "MedCerts and FocusQuest announce a partnership to provide minority students with access to healthcare and IT career training.",
+      "content": "MedCerts and FocusQuest have launched a partnership to provide minority students with access to healthcare and IT career training. The partnership focuses on supporting students from Historically Black Colleges and Universities (HBCUs) and Minority Serving Institutions (MSIs), and has already supported over 80,000 African American students.\n\n'We strive to connect minority students with exceptional health-industry education,' said Sean-Reed McGee, FocusQuest CEO. Robert Hiller from MedCerts added, 'We're thrilled to provide students with opportunities to pursue in-demand careers.'\n\nThe program offers flexible online certification programs in allied health and IT, provides nationally recognized certifications, and aims to address workforce shortages while creating pathways to stable, rewarding careers.",
+      "status": "published",
+      "category": "Partnerships"
+    },
+    {
+      "title": "Discovering What Success Means to You",
+      "slug": "discovering-what-success-means-to-you",
+      "publishedDate": "2024-09-04",
+      "excerpt": "What defines our success? Success is as unique as each individual's journey and aspirations.",
+      "content": "What defines our success? Success is as unique as each individual's journey and aspirations. Understanding what success means to you personally is crucial for creating a fulfilling life path.",
+      "status": "published",
+      "category": "Personal Development"
+    },
+    {
+      "title": "A Call for Growth and Understanding Amidst Tragedy",
+      "slug": "a-call-for-growth-and-understanding-amidst-tragedy",
+      "publishedDate": "2024-08-05",
+      "excerpt": "My jaw dropped as I saw the video. How could this happen? Reflecting on tragic events and the need for community growth.",
+      "content": "My jaw dropped as I saw the video. How could this happen? In times of tragedy, we must come together as a community to foster growth and understanding.",
+      "status": "published",
+      "category": "Social Commentary"
+    },
+    {
+      "title": "A Son's Letter to Larry Reed McGee",
+      "slug": "a-sons-letter-to-larry-reed-mcgee",
+      "publishedDate": "2024-07-07",
+      "excerpt": "A personal letter reflecting on family, legacy, and the impact of father figures in our lives.",
+      "content": "A personal letter reflecting on family, legacy, and the impact of father figures in our lives.",
+      "status": "published",
+      "category": "Personal"
+    },
+    {
+      "title": "June Focus: Honoring Juneteenth and Strengthening Student Support",
+      "slug": "june-focus-honoring-juneteenth-and-strengthening-student-support",
+      "publishedDate": "2024-06-06",
+      "excerpt": "Honoring Juneteenth while focusing on educational opportunities and student support initiatives.",
+      "content": "Honoring Juneteenth while focusing on educational opportunities and student support initiatives.",
+      "status": "published",
+      "category": "Education"
+    },
+    {
+      "title": "Securing Your Bag for Success by FocusQuest",
+      "slug": "securing-your-bag-for-success-by-focusquest",
+      "publishedDate": "2024-04-04",
+      "excerpt": "Strategies and insights for achieving financial success and career advancement through FocusQuest programs.",
+      "content": "Strategies and insights for achieving financial success and career advancement through FocusQuest programs.",
+      "status": "published",
+      "category": "Business Strategy"
+    },
+    {
+      "title": "Empowering Young Minds: The Launch of 'Quest for Success' by FocusQuest",
+      "slug": "empowering-young-minds-the-launch-of-quest-for-success-by-focusquest",
+      "publishedDate": "2024-03-03",
+      "excerpt": "Announcing the launch of Quest for Success, a new initiative designed to empower young minds through education.",
+      "content": "Announcing the launch of Quest for Success, a new initiative designed to empower young minds through education.",
+      "status": "published",
+      "category": "Education"
+    },
+    {
+      "title": "Navigating New Horizons: Back2Learn's MBE Certification Journey",
+      "slug": "navigating-new-horizons-back2learns-mbe-certification-journey",
+      "publishedDate": "2024-01-01",
+      "excerpt": "The journey of Back2Learn achieving Minority Business Enterprise (MBE) certification and what it means for the future.",
+      "content": "The journey of Back2Learn achieving Minority Business Enterprise (MBE) certification and what it means for the future.",
+      "status": "published",
+      "category": "Business Milestones"
+    }
+  ],
+  "pages": [
+    {
+      "title": "Let's Partner",
+      "slug": "lets-partner",
+      "content": "Ready to collaborate and create something amazing together? Let's connect.\n\nContact Information:\n- Book a meeting: https://calendly.com/seanreed06\n- Digital business card: https://1lnk.page/SeanMcGee\n- Contact form available for direct messages\n\nSocial Media:\n- LinkedIn\n- Instagram\n- Facebook",
+      "template": "contact"
+    },
+    {
+      "title": "Journal",
+      "slug": "journal",
+      "content": "Insights, thoughts, and lessons learned on the entrepreneurial journey. Explore articles covering business strategy, personal development, education, and community impact.",
+      "template": "blog-index"
+    },
+    {
+      "title": "Business Portfolio",
+      "slug": "business-portfolio",
+      "content": "Sean Reed McGee's diverse portfolio of companies spanning education, marketing, real estate, and community development. Each venture focuses on creating opportunities and driving positive impact.",
+      "template": "portfolio"
+    }
+  ],
+  "socialMedia": {
+    "linkedin": "https://linkedin.com/in/seanreedmcgee",
+    "instagram": "https://instagram.com/seanreedmcgee",
+    "facebook": "https://facebook.com/seanreedmcgee",
+    "calendly": "https://calendly.com/seanreed06",
+    "digitalCard": "https://1lnk.page/SeanMcGee"
+  },
+  "seoMetadata": {
+    "title": "Sean Reed McGee - Entrepreneur and Performance Marketer",
+    "description": "Sean Reed McGee is an entrepreneur and performance marketer with multiple successful ventures including Lead Ventures, Back2Learn, and Focus Quest.",
+    "keywords": ["entrepreneur", "performance marketing", "education", "HBCU", "minority business", "leadership"]
+  }
+}

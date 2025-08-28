@@ -1,0 +1,12 @@
+{
+  "domain": "avchemist.com",
+  "total_pages": 11,
+  "crawl_completed": true,
+  "output_file": "/files/seo-output/avchemist.com/avchemist_com_crawl_overview_20250807_185210.json",
+  "output_directory": "/files/seo-output/avchemist.com",
+  "timestamp": "2025-08-07T18:52:10.344172",
+  "errors": 0,
+  "redirects": 0,
+  "sitemap_urls_found": 0,
+  "crawl_reason": "finished"
+}

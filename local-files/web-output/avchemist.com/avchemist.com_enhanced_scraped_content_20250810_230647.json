@@ -1,0 +1,584 @@
+{
+  "domain": "avchemist.com",
+  "scraping_metadata": {
+    "total_urls": 8,
+    "scraping_started": "2025-08-10T23:03:44.261065",
+    "jina_api_endpoint": "https://r.jina.ai/",
+    "source": "enhanced_jina_scraper",
+    "integration": "n8n_website_workflow",
+    "image_extraction_enabled": true,
+    "image_downloading_enabled": true,
+    "scraping_completed": "2025-08-10T23:06:47.544561",
+    "successful_scrapes": 1,
+    "failed_scrapes": 7,
+    "success_rate_percent": 12.5,
+    "total_images_found": 37,
+    "images_directory": "C:\\Users\\Jared Chan\\coding\\ProteusX\\n8n\\local-files\\web-output\\avchemist.com\\images"
+  },
+  "scraped_pages": [
+    {
+      "address": "https://avchemist.com",
+      "content": "",
+      "scraped_at": "2025-08-10T23:03:44.261123",
+      "success": false,
+      "content_length": 0,
+      "word_count": 0,
+      "images": {
+        "total_found": 9,
+        "downloaded": 2,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://web.archive.org/web/20231003133136im_/https://www.avchemist.com/wp-content/uploads/2021/05/f972f8e5c2959f09a1fcccc51f24cdd7.jpg",
+            "alt": "",
+            "title": "",
+            "width": "",
+            "height": "",
+            "class": "ct-image",
+            "loading": "",
+            "filename": "f972f8e5c2959f09a1fcccc51f24cdd7.jpg",
+            "page_url": "https://avchemist.com",
+            "local_path": "C:\\Users\\Jared Chan\\coding\\ProteusX\\n8n\\local-files\\web-output\\avchemist.com\\images\\f972f8e5c2959f09a1fcccc51f24cdd7.jpg",
+            "file_size": 524
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "1024",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "512",
+            "height": "512",
+            "class": "brxe-image css-filter size-full bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com",
+            "local_path": "C:\\Users\\Jared Chan\\coding\\ProteusX\\n8n\\local-files\\web-output\\avchemist.com\\images\\logo-2-1024x314.jpg",
+            "file_size": 32346
+          }
+        ]
+      },
+      "error": "Request timeout (25s)",
+      "status_code": 0
+    },
+    {
+      "address": "https://avchemist.com/",
+      "content": "Title: Home\n\nURL Source: https://avchemist.com/\n\nPublished Time: Fri, 08 Aug 2025 03:00:50 GMT\n\nMarkdown Content:\nAV Chemist\n\n===============\n[Skip to main content](https://avchemist.com/#brx-content)[Skip to footer](https://avchemist.com/#brx-footer)\n\n[![Image 3: Reality - Real Estate Template](https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg)](https://avchemist.com/)\n\n*   [Home](https://avchemist.com/)\n*   [About](https://avchemist.com/about/)\n*   [Services](https://avchemist.com/#) \n    *   [Benefits reimbursement](https://avchemist.com/benefits-reimbursement/)\n    *   [Medication Home Delivery](https://avchemist.com/medication-home-delivery/)\n    *   [Personal Injury Pharmacy](https://avchemist.com/personal-injury-pharmacy/)\n    *   [Counselling](https://avchemist.com/counselling/)\n\n*   [Contact](https://avchemist.com/contact/)\n\n*   [Home](https://avchemist.com/)\n*   [About](https://avchemist.com/about/)\n*   [Services](https://avchemist.com/#) \n    *   [Benefits reimbursement](https://avchemist.com/benefits-reimbursement/)\n    *   [Medication Home Delivery](https://avchemist.com/medication-home-delivery/)\n    *   [Personal Injury Pharmacy](https://avchemist.com/personal-injury-pharmacy/)\n    *   [Counselling](https://avchemist.com/counselling/)\n\n*   [Contact](https://avchemist.com/contact/)\n\n[Book Consultation](https://avchemist.com/contact/)\n\nPersonal Injury Pharmacy\n========================\n\nInjured Workers\n---------------\n\nInjured at work? Don’t feel heightened. AV Chemist provides you access to licenced professionals that helps ensure the right prescription for your injury while guaranteeing a swift delivery to your home or office.\n\n[Contact](https://avchemist.com/)\n\n### Book Now\n\n0 / 180\n\nSubmit\n\nA Full-Scale Personal Injury Pharmacy\n-------------------------------------\n\nAvchemist.com is a full-service pharmacy specializing in:\n\n*   Auto accidents (no-fault)\n*   Worker-compensation(injured at work)\n*   Slip and fall (liens)\n\nA pharmacy dedicated to ensuring efficient and reliable delivery of doctor-prescribed medications for all personal injury matters.\n\nA team of experienced practitioners, we deliver a tailored service that simplifies the prescription claims process. From Injured workers and working with physicians, pharmacists and attorneys, we stop at nothing to ensure cost-effective delivery of prescribed medications.\n\nWe are glad you found us and are ready to help with your prescription needs while ensuring compliance with industrial, regional and global work standards.\n\n![Image 4](https://web.archive.org/web/20231003133136im_/https://www.avchemist.com/wp-content/uploads/2021/05/f972f8e5c2959f09a1fcccc51f24cdd7.jpg)\n\n![Image 5](https://avchemist.com/wp-content/uploads/2024/02/10001-1024x1024.jpg)\n\n![Image 6](https://avchemist.com/wp-content/uploads/2024/02/coming-soon-1024x683.jpg)\n\n### INJURED WORKERS\n\nAV Chemist will:\n\n*   Get your medications processed, 100% fully covered and delivered to you\n*   No need wait or search for pharmacy that processes claims for: Workers compensation, Auto accident and Slip and fall.\n*   No need to worry about claim being denied.\n*   Simply present this to your prescribing physician or contact AV Chemist so we could obtain your prescription for you.\n\n### ATTORNEYS\n\nAV Chemist helps you concentrate better on your patients as we provide improved control over patient-specific medications and claims. hence, you can concentrate better on your client’s healing process while freeing up staff time to focus on where your skills are more useful.\n\nAV Chemist will:\n\n*   Free up staff time and give clients the peace of mind that medications will be processed and delivered.\n*   Get control over patient specific treatments and eliminate the need for phone calls regarding medication coverage and claims.\n\n[Contact Now](https://avchemist.com/contact/)\n\n![Image 7](https://avchemist.com/wp-content/uploads/2024/02/slider-2-1024x683.jpg)\n\n![Image 8](https://avchemist.com/wp-content/uploads/2024/02/10008-1024x683.jpg)\n\n### PHYSICIANS\n\nAV Chemist will:\n\n*   Get your medications processed, 100% fully covered and delivered to you\n*   No need wait or search for pharmacy that processes claims for: Workers compensation, Auto accident and Slip and fall.\n*   No need to worry about claim being denied.\n*   Simply present this to your prescribing physician or contact AV Chemist so we could obtain your prescription for you.\n\n### PERSONAL INJURY\n\nAV Chemist helps you concentrate more on your patients as we provide improved control over patient-specific medications and claims. hence, you can focus on your client’s healing process in detail while freeing up staff time to focus on where your skills are more useful.\n\nAV Chemist will:\n\n*   Free up staff time and give clients the peace of mind that medications will be processed and delivered.\n*   Get control over patient specific treatments and eliminate the need for phone calls regarding medication coverage and claims.\n\n[Contact Now](https://avchemist.com/contact/)\n\n![Image 9](https://avchemist.com/wp-content/uploads/2024/02/10009-1024x683.jpg)\n\n### Why Choose Us?\n\n### Super-fast medication Processing\n\nAV Chemist understands the importance of productivity to your business. Thus, we partner with your treatment team to provide a 100% fully covered medication, while we manage and simplify the claims process to allowing your workers focus more on recovery.\n\n### Avoid Pharmacies that Processes Claims\n\nIs it workers compensation, Auto Accident (No-Fault) or Slip & Fall (Liens)? AV Chemist accelerates your benefits and reimbursement processes. We put patients first and ensure hassle-free access to their doctor-prescribed medications.\n\n### No More Worries About Claim Denial\n\nAt AV Chemist, you can be rest assured of gaining access to your rights. We’ll work with you to help facilitate your authorization process, whether it’s from provider and payor or it’s a coordinate benefit between secondary and tertiary insurance.\n\n### Who We Help?\n\n### Injured Workers\n\nAV Chemist understands the importance of productivity to your business. Thus, we partner with your treatment team to provide a 100% fully covered medication, while we manage and simplify the claims process to allowing your workers focus more on recovery\n\n[Enroll Now](https://avchemist.com/contact/)\n\n### Attorneys\n\nIs it workers compensation, Auto Accident (No-Fault) or Slip & Fall (Liens)? AV Chemist accelerates your benefits and reimbursement processes. We put patients first and ensure hassle-free access to their doctor-prescribed medications.\n\n[Learn More](https://avchemist.com/contact/)\n\n### Physicians\n\nAt AV Chemist, you can be rest assured of gaining access to your rights. We’ll work with you to help facilitate your authorization process, whether it’s from provider and payor or it’s a coordinate benefit between secondary and tertiary insurance.\n\n[Learn More](https://avchemist.com/contact/)\n\nMost commen questions\n---------------------\n\n*   ##### Q: I’m an attorney, how can you help my client?  A: Av Chemist helps Attorneys to assist their clients in the time of critical distress when client in pain needs help. This way, your client experience doctors handle the questions related to their medicines with the assurance of having the right prescriptions.      \n*   ##### Q: How do you make it easier to access these benefits?  A: Avchemist assists attorneys in order for the client to get his medication immediately within 48 hrs. To learn more, call or email me at avchemist      \n*   ##### Q: What is Worker Compensation?  A: Worker compensation is a form of insurance that provides workers of an organization with wage replacements or medical benefits when an injury occurs within the working environment.      \n*   ##### Q: How fast will I get my medications?  A: AV Chemist strives to provide swift delivery of your doctor-prescribed medication as we believe this is vital to your recovery process. Thus, you can have same-day delivery, depending on the urgency of your injury.      \n*   ##### Q: Can I get home delivery?  A: Yes, AV Chemist is 100% flexible and provides you the ability to choose to have your medications delivered to your office or home.      \n*   ##### Q: What is No-fault / auto Accident injury?  A: No-fault insurance means when you’re injured in a car accident, your own car insurance coverage will pay some or all of your medical bills and lost earnings, regardless of who was at fault for the crash              \n\n![Image 10](https://avchemist.com/wp-content/uploads/2024/02/cardiology-2.png)\n\n[![Image 11: Reality - Real Estate Template](https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg)](https://avchemist.com/)\n\nPLEASE NOTE: This Site Is For Informational Purposes Only & Does Not Inherently Imply A Physician – Patient Relationsip\n\n### Menu\n\n*   [Home](https://avchemist.com/)\n*   [About](https://avchemist.com/about/)\n*   [Contact](https://avchemist.com/contact/)\n\n### Services\n\n*   [Benefits reimbursement](https://avchemist.com/benefits-reimbursement/)\n*   [Medication Home Delivery](https://avchemist.com/medication-home-delivery/)\n*   [Personal Injury Pharmacy](https://avchemist.com/personal-injury-pharmacy/)\n*   [Counselling](https://avchemist.com/counselling/)\n\n### Contact Us\n\nAV Chemist is a worker compensation pharmacy that strived to ensure swift delivery of doctor-prescribed medications without compromising on excellent customer experience.\n\n### © 2024 AV Chemist Pharmacy",
+      "scraped_at": "2025-08-10T23:04:10.905720",
+      "success": true,
+      "content_length": 9502,
+      "word_count": 1151,
+      "images": {
+        "total_found": 9,
+        "downloaded": 2,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://web.archive.org/web/20231003133136im_/https://www.avchemist.com/wp-content/uploads/2021/05/f972f8e5c2959f09a1fcccc51f24cdd7.jpg",
+            "alt": "",
+            "title": "",
+            "width": "",
+            "height": "",
+            "class": "ct-image",
+            "loading": "",
+            "filename": "f972f8e5c2959f09a1fcccc51f24cdd7.jpg",
+            "page_url": "https://avchemist.com/"
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "1024",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "512",
+            "height": "512",
+            "class": "brxe-image css-filter size-full bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com/"
+          }
+        ]
+      }
+    },
+    {
+      "address": "https://avchemist.com/about/",
+      "content": "",
+      "scraped_at": "2025-08-10T23:04:14.374060",
+      "success": false,
+      "content_length": 0,
+      "word_count": 0,
+      "images": {
+        "total_found": 5,
+        "downloaded": 1,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/about/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/about/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/about/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/about/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com/about/"
+          }
+        ]
+      },
+      "error": "Request timeout (25s)",
+      "status_code": 0
+    },
+    {
+      "address": "https://avchemist.com/benefits-reimbursement/",
+      "content": "",
+      "scraped_at": "2025-08-10T23:04:40.063972",
+      "success": false,
+      "content_length": 0,
+      "word_count": 0,
+      "images": {
+        "total_found": 3,
+        "downloaded": 1,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/benefits-reimbursement/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/benefits-reimbursement/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com/benefits-reimbursement/"
+          }
+        ]
+      },
+      "error": "Request timeout (25s)",
+      "status_code": 0
+    },
+    {
+      "address": "https://avchemist.com/contact/",
+      "content": "",
+      "scraped_at": "2025-08-10T23:05:05.639594",
+      "success": false,
+      "content_length": 0,
+      "word_count": 0,
+      "images": {
+        "total_found": 2,
+        "downloaded": 1,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/contact/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com/contact/"
+          }
+        ]
+      },
+      "error": "Request timeout (25s)",
+      "status_code": 0
+    },
+    {
+      "address": "https://avchemist.com/counselling/",
+      "content": "",
+      "scraped_at": "2025-08-10T23:05:31.221998",
+      "success": false,
+      "content_length": 0,
+      "word_count": 0,
+      "images": {
+        "total_found": 3,
+        "downloaded": 1,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/counselling/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/counselling/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com/counselling/"
+          }
+        ]
+      },
+      "error": "Request timeout (25s)",
+      "status_code": 0
+    },
+    {
+      "address": "https://avchemist.com/medication-home-delivery/",
+      "content": "",
+      "scraped_at": "2025-08-10T23:05:56.827856",
+      "success": false,
+      "content_length": 0,
+      "word_count": 0,
+      "images": {
+        "total_found": 3,
+        "downloaded": 1,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/medication-home-delivery/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/medication-home-delivery/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com/medication-home-delivery/"
+          }
+        ]
+      },
+      "error": "Request timeout (25s)",
+      "status_code": 0
+    },
+    {
+      "address": "https://avchemist.com/personal-injury-pharmacy/",
+      "content": "",
+      "scraped_at": "2025-08-10T23:06:22.432465",
+      "success": false,
+      "content_length": 0,
+      "word_count": 0,
+      "images": {
+        "total_found": 3,
+        "downloaded": 1,
+        "images_list": [
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/personal-injury-pharmacy/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20314'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E",
+            "alt": "",
+            "title": "",
+            "width": "1024",
+            "height": "683",
+            "class": "brxe-image css-filter size-large bricks-lazy-hidden",
+            "loading": "",
+            "filename": "svg%3E",
+            "page_url": "https://avchemist.com/personal-injury-pharmacy/",
+            "download_error": "No connection adapters were found for \"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E\""
+          },
+          {
+            "src": "https://avchemist.com/wp-content/uploads/2024/02/logo-2-1024x314.jpg",
+            "alt": "Reality - Real Estate Template",
+            "title": "",
+            "width": "1024",
+            "height": "314",
+            "class": "bricks-site-logo css-filter",
+            "loading": "eager",
+            "filename": "logo-2-1024x314.jpg",
+            "page_url": "https://avchemist.com/personal-injury-pharmacy/"
+          }
+        ]
+      },
+      "error": "Request timeout (25s)",
+      "status_code": 0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "website-analyzer-global",
+  "version": "1.0.0",
+  "description": "Global CLI tool for comprehensive website analysis using Playwright",
+  "main": "index.js",
+  "bin": {
+    "website-analyzer": "./bin/website-analyzer.js",
+    "wa": "./bin/website-analyzer.js"
+  },
+  "scripts": {
+    "postinstall": "npx playwright install chromium",
+    "test": "node bin/website-analyzer.js https://example.com"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "playwright",
+    "web-scraping",
+    "website-analysis",
+    "design-tokens",
+    "performance",
+    "cli",
+    "global"
+  ],
+  "author": "AI Assistant",
+  "license": "MIT",
+  "preferGlobal": true
+}

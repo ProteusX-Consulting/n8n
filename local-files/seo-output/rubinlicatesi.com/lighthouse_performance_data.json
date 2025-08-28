@@ -1,0 +1,114 @@
+{
+  "domain": "rubinlicatesi.com",
+  "homepage_url": "https://www.rubinlicatesi.com/",
+  "tested_at": "2025-08-05T19:07:50.812Z",
+  "mobile": null,
+  "desktop": null,
+  "performance_gap": 0,
+  "seo_issues": {
+    "missing_meta_description": false,
+    "missing_proper_title": false,
+    "image_alt_issues": false,
+    "crawling_issues": true
+  },
+  "top_opportunities": [
+    {
+      "audit": "server-response-time",
+      "title": "Reduce initial server response time",
+      "potential_savings_ms": 1447
+    },
+    {
+      "audit": "unused-javascript",
+      "title": "Reduce unused JavaScript",
+      "potential_savings_ms": 360
+    },
+    {
+      "audit": "render-blocking-resources",
+      "title": "Eliminate render-blocking resources",
+      "potential_savings_ms": 264
+    },
+    {
+      "audit": "redirects",
+      "title": "Avoid multiple page redirects",
+      "potential_savings_ms": 230
+    }
+  ],
+  "detailed_results": [
+    {
+      "url": "https://www.rubinlicatesi.com/",
+      "tested_at": "2025-08-05T19:07:50.808Z",
+      "performance_score": 88,
+      "accessibility_score": 84,
+      "best_practices_score": 93,
+      "seo_score": 85,
+      "first_contentful_paint": 1981,
+      "largest_contentful_paint": 2882,
+      "total_blocking_time": 33,
+      "cumulative_layout_shift": 0.036,
+      "speed_index": 6585,
+      "meta_description_audit": true,
+      "document_title_audit": true,
+      "crawlable_anchors": false,
+      "image_alt_audit": true,
+      "robots_txt_valid": true,
+      "render_blocking_resources": 1,
+      "unused_css_rules": 1,
+      "opportunities": [
+        {
+          "audit": "server-response-time",
+          "title": "Reduce initial server response time",
+          "potential_savings_ms": 1671
+        },
+        {
+          "audit": "redirects",
+          "title": "Avoid multiple page redirects",
+          "potential_savings_ms": 780
+        },
+        {
+          "audit": "render-blocking-resources",
+          "title": "Eliminate render-blocking resources",
+          "potential_savings_ms": 264
+        }
+      ],
+      "status": "success"
+    },
+    {
+      "url": "https://www.rubinlicatesi.com/",
+      "tested_at": "2025-08-05T19:07:50.810Z",
+      "performance_score": 86,
+      "accessibility_score": 84,
+      "best_practices_score": 93,
+      "seo_score": 85,
+      "first_contentful_paint": 551,
+      "largest_contentful_paint": 1922,
+      "total_blocking_time": 51,
+      "cumulative_layout_shift": 0.007,
+      "speed_index": 2267,
+      "meta_description_audit": true,
+      "document_title_audit": true,
+      "crawlable_anchors": false,
+      "image_alt_audit": true,
+      "robots_txt_valid": true,
+      "render_blocking_resources": 1,
+      "unused_css_rules": 1,
+      "opportunities": [
+        {
+          "audit": "server-response-time",
+          "title": "Reduce initial server response time",
+          "potential_savings_ms": 1447
+        },
+        {
+          "audit": "unused-javascript",
+          "title": "Reduce unused JavaScript",
+          "potential_savings_ms": 360
+        },
+        {
+          "audit": "redirects",
+          "title": "Avoid multiple page redirects",
+          "potential_savings_ms": 230
+        }
+      ],
+      "status": "success"
+    }
+  ]
+}
