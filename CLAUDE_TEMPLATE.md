@@ -260,12 +260,6 @@ This file contains helpful information for Claude Code when working on this proj
   - Contact Page Export: [AnimaApp export name/ID]
   - Additional Pages: [List other page exports available]
 
-**For Existing Sites (Redesign Projects):**
-- Migration Strategy:
-  - Content Migration Plan: [how to transfer existing content]
-  - SEO Preservation: [maintaining rankings during redesign]
-  - User Impact: [minimizing disruption to existing users]
-
 **Site Data Collection (All Projects):**
 - Jina AI Content Scraping:
   - Use Jina Reader API to extract structured content from client site
@@ -277,11 +271,6 @@ This file contains helpful information for Claude Code when working on this proj
   - Command pattern: `wget -r -np -k -E -p [client-domain]`
   - Download images, fonts, stylesheets, and other media
   - Create local asset inventory and reference mapping
-- Playwright Structure Analysis:
-  - Use Playwright to capture DOM structure and interactive elements
-  - Script to extract component patterns and layout structures
-  - Capture responsive breakpoints and behavior patterns
-  - Document dynamic content loading and user interactions
 
 **For New Sites (Greenfield Projects):**
 - Content Creation Needs: [all content must be created from scratch]
@@ -313,7 +302,6 @@ This file contains helpful information for Claude Code when working on this proj
 **Content Integration Plan:**
 - Replace placeholder content with client-specific information
 - Use Jina-scraped content as source material for real content
-- Integrate Playwright-captured structure data with AnimaApp design
 - Maintain design structure while customizing messaging
 - Preserve layout hierarchy and visual balance
 - Adapt CTAs and conversion elements for client goals
@@ -337,7 +325,6 @@ This file contains helpful information for Claude Code when working on this proj
 **Phase 1: Data Collection & Preparation**
 - Run Jina AI content scraping on target website for structured content extraction
 - Execute asset download commands to create local asset library
-- Run Playwright scripts to capture DOM structure and interactive elements
 - Create asset mapping file to reference local versions of all external assets
 
 **Phase 2: AnimaApp Code Integration & Branding**
@@ -350,7 +337,6 @@ This file contains helpful information for Claude Code when working on this proj
 
 **Phase 3: Content & Structure Integration**
 - Merge Jina-scraped content from `client-site/scraped-data/jina-content/` with AnimaApp design templates
-- Use Playwright structure data to enhance component interactions
 - Replace placeholder content with scraped real content
 - Adapt messaging to client's brand voice while preserving layout structure
 - Integrate client's unique value propositions into established page templates
@@ -467,7 +453,6 @@ project-root/
 │   │   ├── scraped-data/
 │   │   │   ├── jina-content/ (Jina AI extracted content by page)
 │   │   │   ├── downloaded-assets/ (All site assets and brand assets consolidated)
-│   │   │   ├── playwright-structure/ (DOM structure and interaction data)
 │   │   │   └── asset-mapping.json (Reference mapping for local assets)
 │   │   ├── live-site-analysis.md (analysis of live reference website)
 │   │   └── implementation-notes.md (how to adapt exports for client)
